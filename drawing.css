@@ -166,17 +166,6 @@ li:nth-child(4){
     height: 316px;
 }
 li:nth-child(5){
-    background-image: url("/images/weezer.jpg");
-    background-position: center;
-    width: 640px;
-    height: 635px;
-}
-li:nth-child(6){
-    background-image: url("/images/PinkPantheress_-_To_Hell_with_It.png");
-    width: 300px;
-    height: 300px;
-}
-li:nth-child(7){
     background-image: url("/images/breakcorelol.jpg");
     color: brown;
     font-weight: bold;
